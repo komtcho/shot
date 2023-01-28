@@ -1,0 +1,18 @@
+{
+    "name": "komtcho/shot",
+    "description": "Build classes for HTTP request",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Komtcho\\Shot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karim Mohamed",
+            "email": "komicho1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
